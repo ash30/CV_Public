@@ -1,109 +1,58 @@
 # Ashley Arthur - Curriculum Vitae
 
-E: ashleyarthur30@yahoo.co.uk
+I'm a senior software engineer working at Vonage Ericsson, a global leader in cloud communications, for the last 6 years I've been making key contributions within the voice CPaaS API.
 
-Experienced QA Engineer, passionate technologist and aspiring developer looking for new challenges
-to prove that quality and development doesn't need to be separate concerns.
+A natural collaborator, I've worked closely with product to proactively define and deliver modern real-time APIs and actively engaged with customers to help 
+integrate solutions.
 
-Having tested applications and developed tools using python, I’ve seen the positives and problems a dynamic runtime can bring and found myself enthused by the direction Apple is taking with Swift, a modern language with a strong emphasis on compile time guarantees. I think it's an exciting time to be working with the iOS technology stack and I'm keen to be a part of the professional community.
-
-In my free time I enjoy creating new app ideas and when away from the computer (gasp!) you'll find me learning mandarin or travelling places with a camera in hand.
+I write predominately fullstack JS and Native Mobile code but working across a polyglot stack I'm comfortable working with most modern languages and currently hacking in Rust because I am drawn to its potential.
 
 ## Skills 
 
-### iOS development 
-
-Swift first developer with exposure to objective C and it's bridging and interop features. I'm knowledgable in key Apple frameworks:
-
-- Responsive and maintainable viewcontrollers with UIkit and Autolayout
-- Efficient networking and appropriate error handling using NSURLSession
-- Simple, sane and performant Core data setups for persistence.
-
-### Python
-
-Strong understanding of python, I use it regularly for tools and automated testing:
-
-- Commandline tools that use 3rd party REST api's to help save time and reduce error.
-- Writing automated testing infrastructure for data validation and subprocess management 
-- Reliable automated testing - the best test is one that fails correctly
-
-### Software Testing
-
-Thorough and conscientious, I find defects and manage their life cycle to mitigate impact on the end user experience.
-
-- Functional and system level test plans to provide key insights into build stability.
-- Maintainable tests written with the agile process in mind.
-
-
-### Other Skills 
-- Cross Platform: Windows, OSX, iOS, Linux 
-- Front end web technologies: HTML, JS, CSS and preprocessors 
-- Source control and CI platforms: GIT, Perforce, Jenkins 
-- Ticket tracking systems Jira, Target Process 
-- 3D content production: Autodesk suite, Adobe CS, Foundry Tools 
+* Developing scaleable web service and clients
+* Native Mobile experience and aware of best pracises ( and hence implications for good API design ) 
+* Automation and CLI tooling with JS / Python scripting
+* Proficient in modern Software Development practises ( Agile, Source Control, Software Lifecycle )
+* Strong communicator and able to work directly with customers to manage intergrations and problems.
 
 ## Experience 
-### QA Engineer 
-__The Foundry__; May 2013 - Present <br>
-<span class=skills_list> Skills: Testing, Agile, Python, Perforce, Bash </span>
 
-Originally hired to test a linux port of Modo a 3D design application, I became an embedded QA for various teams and helped drive new feature testing. Currently I work full time in test automation, solely responsible for the automated testing of the new apparel design suite.
+### Senior Software Engineer 
+__Vonage__; September 2017- Present <br> 
+<span class=skills_list> Skills: Kotlin, Objective C, Swift, WebRTC, Websocket, Node JS, FullStack JS</span>
 
-#### Projects:
-* Digital 3D Apparel & Soft Goods Design
-  <br><a href="https://www.foundry.com/industries/apparel/jia">https://www.foundry.com/industries/apparel/jia</a>
-  
-* Iterative Product Design
-  <br><a href="https://colorway.thefoundry.co.uk/">https://colorway.thefoundry.co.uk</a>
-  
-* Modo: Creative 3D Modeling Software
-  <br><a href="https://www.foundry.com/products/modo">https://www.foundry.com/products/modo</a>
- 
+Progressed from SDET to senior software engineer whilst working on the Vonage voice API. With my experience working full stack as well as native/mobile - I've been a key contributor to the WebRTC based products - both signaling and media, front end clients and backend services.
 
 #### Key Achievements: 
 
-* Helped drive technical image quality in Colorway’s rendering through wide automated coverage of huge input space
+* Led key design and architecture decisions for next generation rewrite of cross platform voice sdks ( Native Mobile + JS ) 
+* Expanded feature set of Vonage Conversation API - Improved Client Websocket connectivity, Mobile Push Notifications and Custom Event Dispatch ( FullStack JS)
+* Successfully tackled and resolved critical bugs within existing services, employing analytical skills and in-depth understanding of multiple codebases.
+* Identified root cause for multiple live incidents, demonstrating proficiency in troubleshooting and resolving complex issues in a time critical manner.
 
-* Apart of the core team that brought Colorway to market, one of the first in-house applications to be a commercial success.
+### QA Engineer 
+__The Foundry__; May 2013 - August 2017 <br> 
+<span class=skills_list> Skills: Testing, Agile, Python, Perforce, Bash </span>
 
-### Mobile QA Engineer
-__UberTesters__; June 2017 - Present <br>
-<span class=skills_list> Skills: Testing, Mobile  </span>
+Hired to test a linux port of existing 3D software (MODO), I became an embedded QA for various projects and helped drive new feature testing.
+Eventually worked full time in test automation, solely responsible for the automated testing of the new apparel design suite.
 
-Freelance Test Engineer helping put client's mobile applications through their paces. 
+#### Key Achievements: 
 
+* Helped drive technical image quality in Colorway’s rendering through automation which compared different algorithms and catch regressions.
+* Worked as apart of an internal startup to deliver green field idea to market. 
 
 ### Creature Effects TD 
 __Moving Picture Company__; Sept 2011 - May 2013 <br>
 <span class=skills_list> Skills: 3D animation, Python, Linux, Bash, GIT, Technical Animation </span>
 
-Animated character TD, creating content for feature film using physical simulators of cloth and hair.
+Animated character TD, creating content for feature film using physic simulators of cloth and hair.
 
 #### Key Achievements:
 
-* Interpreting client requirements and delivering on time in a fast paced agency environment
+* Interpreting cryptic client requirements and delivering on time in a fast paced agency environment
 * Large data set automation through python scripting.
 * Named credit in Hollywood films such as Man of Steel (2013) and Wrath of the Titans (2012) 
 
-### Data Assistant (Internship)
-Utrack; June 2010 - Sept 2010
-
-Data Assistant and remote trainer for geo mapping based web service 
-
------------------
-
-## Open Source / Projects
-
-* ### HueInspired
-  A application that helps artists discover inspiration from their photo collection. It picks a series of dominant colors from a photo to form a color palette. Users can see the currently trending photos on Flickr transformed as palettes as well as their own photo collection. It uses NSURLSession to retrieve network data, Core Data as its persistence layer and a table view with custom cells to display it all. 
-  
-  <a href="https://github.com/ash30/HueInspired">https://github.com/ash30/HueInspired</a>
-
-* ### TPAPI
-  Generate automatic python bindings for the 3rd party target process rest api. The service exposes an endpoint for data model metadata which enabled me to generate at runtime classes that simplified data retrieval as well as object graph traversal. I really came to appreciate the descriptor protocol and the ability to create custom object properties for transparent api design. 
-  
-  <a href="http://www.github.com/ash30/tpapi">www.github.com/ash30/tpapi</a>
-
 ## Education
 * BA Computer Animation (2.1): University of Hertfordshire
-* Udacity iOS developer Nano Degree 
